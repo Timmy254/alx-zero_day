@@ -1,1 +1,1 @@
-This directory consists of git commands
+This directory is for trying git commands
